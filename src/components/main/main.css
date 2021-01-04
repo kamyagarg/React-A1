@@ -1,0 +1,16 @@
+main{
+    display: flex;
+    margin: 2rem 8rem;
+}
+.box{
+    border: 1px solid;
+    border-radius: 8px;
+    display: flex;
+    padding: 1rem;
+    margin: 1rem 0;
+    width: 400px;
+    height: 300px;
+}
+.margin-extra{
+    margin: 1rem;
+}
