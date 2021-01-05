@@ -1,11 +1,12 @@
 header{
-    background-color:#EAECEE;
+    /* background-color:#EAECEE; */
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 1.5rem 8rem;
+    padding: 1rem 8rem;
     box-sizing: border-box;
-    border-bottom: 1px solid ;
+    border-bottom: 1px solid #D5D8DC;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.05);
 }
 .logo{
     width: 3rem;

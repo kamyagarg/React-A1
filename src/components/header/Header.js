@@ -13,11 +13,11 @@ export class Header extends React.Component{
                         </div>
                         <div className="options">
                             <ul>
-                                <li><a href="#">HOME</a><img src="../icons/arrow.svg" alt="" className="arrow-icon" /></li>
-                                <li><a href="#">FEATURES</a><img src="../icons/arrow.svg" alt="" className="arrow-icon" /></li>
-                                <li><a href="#">BLOG STYLES</a><img src="../icons/arrow.svg" alt="" className="arrow-icon" /></li>
-                                <li><a href="#">MEGA MENU</a><img src="../icons/arrow.svg" alt="" className="arrow-icon" /></li>
-                                <li><a href="#">SHOP</a><img src="../icons/arrow.svg" alt="" className="arrow-icon"/></li>
+                                <li><a href="www.google.com">HOME</a><img src="../icons/arrow.svg" alt="" className="arrow-icon" /></li>
+                                <li><a href="www.google.com">FEATURES</a><img src="../icons/arrow.svg" alt="" className="arrow-icon" /></li>
+                                <li><a href="www.google.com">BLOG STYLES</a><img src="../icons/arrow.svg" alt="" className="arrow-icon" /></li>
+                                <li><a href="www.google.com">MEGA MENU</a><img src="../icons/arrow.svg" alt="" className="arrow-icon" /></li>
+                                <li><a href="www.google.com">SHOP</a><img src="../icons/arrow.svg" alt="" className="arrow-icon" /></li>
                             </ul>
                             <div className="right-icons">
                                 <img src="../icons/bolt.svg" alt="" className="icons-all" />
@@ -33,3 +33,6 @@ export class Header extends React.Component{
     }
 }
 
+
+{/* <img src="../icons/arrow.svg" alt="" className="arrow-icon" />
+<img src="../icons/arrow.svg" alt="" className="arrow-icon" /> */}
